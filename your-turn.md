@@ -13,7 +13,7 @@ To help merge our stories, let's all use forked versions of the same file: [beco
 2. Everyone else, decide whether you'll also make your own fork or take turns committing to the anchor's.
 3. Clone the forked repository.
     - NB: If you clone a forked repo using GH Desktop, it will ask you whether you want to contribute to the original project or your own fork. _Work on your own fork for now; you can always share your work "upstream" later on._
-4. Edit [the story](becoming-digital). I've already given you an opening: "When the world was only analog," ... How would you continue the sentence? The paragraph?
+4. Edit [the story](becoming-digital.md). I've already given you an opening: "When the world was only analog," ... How would you continue the sentence? The paragraph?
    - If you're working together, the first person to propose an answer should write it down.
    - After each meaningful "chunk" of text, or each person's turn, **save and commit.** Use a meaningful commit message, i.e. don't accept the default message, like "update files": instead, say *how* you've updated it, e.g. "add bit about live performances".
    - _Everyone should get a chance to write, save, and commit._
