@@ -43,5 +43,5 @@ The merge and review process just takes you through a series of prompts and butt
 <hr />
 
 <div class="alert alert-info">
-<strong>EXT:</strong> All done with the main activity and still have time left? Head back to the main folder and read the file called <a href="../murray--four-affordances.md">murray--four-affordances.md</a>, and follow the prompts inside it.
+<strong>EXT:</strong> All done with the main activity and still have time left? Read the file called <a href="ext--murray--four-affordances.md">ext--murray--four-affordances.md</a>, and follow the prompts inside it.
 </div>
