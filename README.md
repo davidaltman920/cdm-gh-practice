@@ -10,4 +10,8 @@ This text is, itself, coming from a single file inside the repository, with the 
 
 The file extension, '.md', refers to _Markdown_, a simple syntax for signaling display formats (bold, italic, bullets, headings, etc) in plain text files. As you can see here, GitHub knows how to render markup like `**repo**` in bold and `_folder_` in italics. There are many more features; as an EXT, you could check out an [overview of Markdown syntax](https://www.markdownguide.org/basic-syntax/) you can use.
 
-Markdown lets you link not only to other websites, but also to other files in the repo, like [this-is-just-to-say.txt](this-is-just-to-say.txt).
+Markdown lets you link not only to other websites, but also to other files in the repo, like [this-is-just-to-say.txt](this-is-just-to-say.txt). Let's look at that one together!
+
+## When it's time for your turn
+
+You'll find the instructions in [your-turn.md](your-turn.md).
