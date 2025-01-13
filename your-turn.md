@@ -9,7 +9,7 @@ And, to help you practice working with git and GitHub, I'm going to ask you to c
 To help merge our stories, let's all use forked versions of the same file: [becoming-digital.md](becoming-digital.md).
 
 ## Instructions
-1. To start, the team anchor (whoever has the most GitHub experience) should **fork this repository,** using the button at the top right. ![location of fork button in github](../img/github-fork-button.png)
+1. To start, the team anchor (whoever has the most GitHub experience) should **fork this repository,** using the button at the top right of the [repository home page](..). ![location of fork button in github](img/github-fork-button.png)
 2. Everyone else, decide whether you'll also make your own fork or take turns committing to the anchor's.
 3. Clone the forked repository.
     - NB: If you clone a forked repo using GH Desktop, it will ask you whether you want to contribute to the original project or your own fork. _Work on your own fork for now; you can always share your work "upstream" later on._
